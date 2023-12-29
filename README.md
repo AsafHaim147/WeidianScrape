@@ -1,7 +1,7 @@
 # WeidianScrape
 A multi-store scraper for weidian stores. Using Selenium on Python you can scrape multiple stores, gaining real-time information regarding items name, price and picture straight into your telegram bot. Making deal hunting ridiculously easy.
 
-This scraper is based on Selenium because BS4 had some issues decoding chinese text. interested in a BS4 version? check this : 
+This scraper is based on Selenium because BS4 had some issues decoding chinese text. interested in a BS4 version? check this : https://github.com/AsafHaim147/SBMonitor
 
 ####  BEFORE STARTING:
 This simple program was made for personal,fair and legal use. Please avoid abusing websites with it. 
